@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.App{
+  width: 99vw;
+  height: fit-content;
+  padding: 10px;
+}
+button {
+  font-size: calc(10px + 2vmin);
+}

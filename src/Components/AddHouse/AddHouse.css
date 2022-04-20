@@ -1,0 +1,9 @@
+.addHouseContainer{
+    width: fit-content;
+    padding: 15px;
+    margin: auto;
+}
+input{
+  padding:5px;
+  margin: 5px;
+}
